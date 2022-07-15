@@ -1,0 +1,110 @@
+header{
+    height: 80px;
+    border: 5px solid black;
+   
+}
+.p1{
+    margin-left: 0%;
+    display: inline;
+    margin-top: 0%;
+}
+
+.p3{
+    margin-left: 82%;
+    display: inline;
+    margin-top: 0px;
+    
+
+}
+
+.p2{
+    text-align: center;
+    margin-top: 2%;
+    display: inline;
+    margin-left: 40%;
+    position: absolute;
+}
+
+.table1{
+    
+    border-collapse: collapse;
+    width: 30%;
+    height: 80px;
+    border-top: none;
+}
+
+.td1{
+    border-right: 5px solid black;
+    border-collapse: collapse;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    border-top: none;
+    
+    
+}
+nav{
+    height: 80px;
+    border: 5px solid black;
+    border-top: none;
+}
+
+
+.tbl2{
+    border: 5px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.tbld{
+    border: 5px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    height: 60px;
+}
+.tbll{
+    width: 50%;
+    text-align: center;
+}
+
+
+
+
+.dv1{
+    margin-top: 25px;
+    border: 5px solid black;
+
+}
+.ip1{
+    margin-left: 20px;
+}
+.ip2{
+    margin-left: 17%;
+}
+.ip4{
+    margin-left: 20%;
+}
+.ip5{
+    margin-left: 22%;
+}
+form{ 
+    padding: 30px;
+}
+
+
+
+footer{
+    bottom:0;
+    height:70px;
+    border:5px solid black;
+    position: fixed;
+    width: 98.5%;
+    
+}
+.fp1, .fp2, .fp3, .fp4{
+    display: inline-block;
+   padding: 7px;
+   margin-left: 17%;
+   
+}
